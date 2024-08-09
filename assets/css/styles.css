@@ -27,8 +27,16 @@ body {
 }
 /*Novedades Parte 1*/
 .title__New{
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
   font-size: 28px;
   font-weight: 700;
+  width: 164px;
+  height: 42px;
+  top: 157px;
+  left: 110px;
+  color: #171717;
 }
 .img__bootstrap{
   width: 600px;
