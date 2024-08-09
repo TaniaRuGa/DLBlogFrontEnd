@@ -28,7 +28,7 @@ body {
   height: 300px;
   border-radius: 20px;
 }
-.date-Nov {
+.date-Nov{
   font-size: 18px;
   font-weight: 400;
   margin-top: 10px;
@@ -57,7 +57,26 @@ body {
   margin-bottom: 20px;
 }
 /*Novedades Parte 3*/
-
+.date__Nov--info{
+  font-size: 16px;
+  font-weight: 400;
+}
+.title__img--info{
+  font-size: 20px;
+  font-weight: 700;
+}
+.logo__desafiolatam--info{
+  width: 40px;
+  height: 40px;
+  border-radius: 77px;
+}
+.title__desafiolatam--info{
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 12px;
+}
 /*Populares Parte 1*/
 
 /**/
