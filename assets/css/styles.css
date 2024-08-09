@@ -78,7 +78,19 @@ body {
   margin-left: 12px;
 }
 /*Populares Parte 1*/
-
+.img__program{
+  width: 298px;
+  height: 190px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+.crate-logo{
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+.crateApi{
+  margin-top: 20px;
+}
 /**/
 
 
