@@ -49,9 +49,12 @@ body {
   font-weight: 700;
 }
 .logo-desafiolatam{
-  width: 60px;
-  height: 60px;
-  border-radius: 77px;
+  width: 55px;
+  height: 55px;
+  top: 1742px;
+  left: 105px;
+  border-radius: 10px;
+  color: #00000040;
 }
 .title-desafiolatam{
   font-size: 24px;
