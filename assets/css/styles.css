@@ -9,18 +9,10 @@ body {
   margin-bottom: 37px;
 }
 .logo__title{
-  font-family: "Poppins", sans-serif;
   font-size: 24px;
   font-weight: 700;
-  line-height: 36px;
-  width: 170px;
-  height: 36px;
-  top: 1751px;
-  left: 181px;
   margin-top: 50px;
   margin-left: 21px;
-  border-color: #CCCCCC;
-  color: #171717;
 }
 /*Línea de separación de secciones*/
 .lineahoriz{
@@ -236,6 +228,20 @@ body {
   top: 1752px;
   margin-top: 52px;
   margin-left: 800px;
+  color: #171717;
+}
+.logo__title--footer{
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  width: 170px;
+  height: 36px;
+  top: 1751px;
+  left: 181px;
+  margin-top: 50px;
+  margin-left: 21px;
+  border-color: #CCCCCC;
   color: #171717;
 }
 /* Poppins regular (400)
