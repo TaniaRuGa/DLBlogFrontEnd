@@ -11,6 +11,8 @@ body {
 .logo__title{
   font-size: 24px;
   font-weight: 700;
+  width: 170px;
+  height: 36px;
   margin-top: 50px;
   margin-left: 21px;
   border-color: #CCCCCC;
@@ -235,11 +237,12 @@ body {
   font-weight: 400;
   font-style: normal;
   font-size: 20px;
-  text-align: right;
+  text-align: center;
   line-height: 30px;
   width: 283px;
   height: 33px;
   top: 1752px;
+  left: 888px;
   margin-top: 52px;
   margin-left: 800px;
   color: #171717;
