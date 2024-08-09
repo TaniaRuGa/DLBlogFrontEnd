@@ -15,13 +15,47 @@ body {
   margin-left: 21px;
 }
 /*Línea de separación de secciones*/
-.lineahoriz {
+.lineahoriz{
   width: 100%;
 }
 /*Novedades Parte 1*/
-
+.title__Novedades{
+  font-size: 28px;
+  font-weight: 700;
+}
+.img__bootstrap{
+  width: 600px;
+  height: 300px;
+  border-radius: 20px;
+}
+.date-Nov {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 10px;
+}
+.title-img{
+  font-size: 24px;
+  font-weight: 700;
+}
+.logo-desafiolatam{
+  width: 60px;
+  height: 60px;
+  border-radius: 77px;
+}
+.title-desafiolatam{
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 22px;
+}
 /*Novedades Parte 2*/
-
+.img-novedades{
+  width: 189px;
+  height: 145px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
 /*Novedades Parte 3*/
 
 /*Populares Parte 1*/
