@@ -19,7 +19,7 @@ body {
   width: 100%;
 }
 /*Novedades Parte 1*/
-.title__Novedades{
+.title__New{
   font-size: 28px;
   font-weight: 700;
 }
@@ -91,10 +91,71 @@ body {
 .crateApi{
   margin-top: 20px;
 }
-/*Populares Parte 2*/
+/*crate1 HTML*/
+.crate1{
+  background-color: #E93E30;
+  width: 298px;
+  height: 89px;
+  border-radius: 10px;
+}
+.img__html{
+  width: 85px;
+  height: 74px;
+  margin-top: 6px;
+}
+.text-html{
+  font-size: 32px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-left: 100px;
+  margin-top: 15px;
+}
+/*crate2 JS*/
+.crate2{
+  background-color: #F7E018;
+  width: 298px;
+  height: 89px;
+  border-radius: 10px;
+}
+.img__js{
+  width: 85px;
+  height: 74px;
+  margin-top: 6px;
+}
+.text-js{
+  font-size: 32px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+/*crate3 Css*/
+.crate3{
+  background-color: #299ED5;
+  width: 298px;
+  height: 89px;
+  border-radius: 10px;
+}
+.img__css{
+  width: 73px;
+  height: 68px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.text-css{
+  font-size: 32px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-left: 130px;
+  margin-top: 15px;
+}
+/*crate4 React*/
+
+/*crate5 Vue*/
+
+/*crate6 Bootstrap*/
+
 /**/
-
-
 
 
 /* Poppins regular (400)
