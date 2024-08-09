@@ -13,6 +13,7 @@ body {
   font-weight: 700;
   margin-top: 50px;
   margin-left: 21px;
+  border-color: #CCCCCC;
 }
 /*Línea de separación de secciones*/
 .lineahoriz{
@@ -215,6 +216,9 @@ body {
   margin-left: 35px;
   margin-top: 15px;
 }
+/*crate-final*/
+.crate-final{}
+.text-category{}
 /*Pie de página*/
 .text-footer{
   font-family: "Poppins", sans-serif;
