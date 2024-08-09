@@ -9,10 +9,17 @@ body {
   margin-bottom: 37px;
 }
 .logo__title{
+  font-family: "Poppins", sans-serif;
   font-size: 24px;
   font-weight: 700;
+  line-height: 36px;
+  width: 170px;
+  height: 36px;
+  top: 1751px;
+  left: 181px;
   margin-top: 50px;
   margin-left: 21px;
+  color: #171717;
 }
 /*Línea de separación de secciones*/
 .lineahoriz{
