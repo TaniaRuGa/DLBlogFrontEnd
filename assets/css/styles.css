@@ -2,10 +2,21 @@ body {
   font-family: "Poppins", sans-serif;
 }
 .logo-imagen{
-
+  width: 55px;
+  height: 55px;
+  border-radius: 5px;
+  margin-top: 38px;
+  margin-bottom: 37px;
 }
 .logo__title{
-  
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 50px;
+  margin-left: 21px;
+}
+/*Línea de separación de secciones*/
+.lineahoriz {
+  width: 100%;
 }
 
 
