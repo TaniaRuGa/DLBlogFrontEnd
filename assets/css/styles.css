@@ -43,6 +43,9 @@ body {
   border-radius: 20px;
 }
 .date-Nov{
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   font-size: 18px;
   font-weight: 400;
   margin-top: 10px;
