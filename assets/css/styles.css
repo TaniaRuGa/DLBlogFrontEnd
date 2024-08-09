@@ -150,11 +150,63 @@ body {
   margin-top: 15px;
 }
 /*crate4 React*/
-
+.crate4{
+  background-color: #292C33;
+  width: 298px;
+  height: 89px;
+  border-radius: 10px;
+}
+.img__react{
+  width: 85px;
+  height: 74px;
+  margin-top: 6px;
+}
+.text-react{
+  font-size: 32px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-left: 90px;
+  margin-top: 15px;
+}
 /*crate5 Vue*/
-
+.crate5{
+  background-color: #67C770;
+  width: 298px;
+  height: 89px;
+  border-radius: 10px;
+}
+.img__vue{
+  width: 77px;
+  height: 57px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.text-vue{
+  font-size: 32px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-left: 130px;
+  margin-top: 15px;
+}
 /*crate6 Bootstrap*/
-
+.crate6{
+  background-color: #563D7C;
+  width: 298px;
+  height: 89px;
+  border-radius: 10px;
+}
+.img__bootst{
+  width: 85px;
+  height: 74px;
+  margin-top: 6px;
+}
+.text-bootstrap{
+  font-size: 32px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-left: 35px;
+  margin-top: 15px;
+}
 /**/
 
 
