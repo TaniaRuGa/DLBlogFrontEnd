@@ -127,12 +127,12 @@ body {
   height: 89px;
   border-radius: 10px;
 }
-.img__html{
+.img__html--logo{
   width: 85px;
   height: 74px;
   margin-top: 6px;
 }
-.text-html{
+.text__crate1--html{
   font-size: 32px;
   font-weight: 700;
   color: #ffffff;
@@ -146,12 +146,12 @@ body {
   height: 89px;
   border-radius: 10px;
 }
-.img__js{
+.img__js--logo{
   width: 85px;
   height: 74px;
   margin-top: 6px;
 }
-.text-js{
+.text__crate2--js{
   font-size: 32px;
   font-weight: 700;
   color: #ffffff;
@@ -165,13 +165,13 @@ body {
   height: 89px;
   border-radius: 10px;
 }
-.img__css{
+.img__css--logo{
   width: 73px;
   height: 68px;
   margin-top: 15px;
   margin-left: 10px;
 }
-.text-css{
+.text__crate3--css{
   font-size: 32px;
   font-weight: 700;
   color: #ffffff;
@@ -185,12 +185,12 @@ body {
   height: 89px;
   border-radius: 10px;
 }
-.img__react{
+.img__react--logo{
   width: 85px;
   height: 74px;
   margin-top: 6px;
 }
-.text-react{
+.text__crate4--react{
   font-size: 32px;
   font-weight: 700;
   color: #ffffff;
@@ -204,13 +204,13 @@ body {
   height: 89px;
   border-radius: 10px;
 }
-.img__vue{
+.img__vue--logo{
   width: 77px;
   height: 57px;
   margin-top: 15px;
   margin-left: 10px;
 }
-.text-vue{
+.text__crate5--vue{
   font-size: 32px;
   font-weight: 700;
   color: #ffffff;
@@ -224,12 +224,12 @@ body {
   height: 89px;
   border-radius: 10px;
 }
-.img__bootst{
+.img__bootst--logo{
   width: 85px;
   height: 74px;
   margin-top: 6px;
 }
-.text-bootstrap{
+.text__crate6--bootstrap{
   font-size: 32px;
   font-weight: 700;
   color: #ffffff;
@@ -237,7 +237,7 @@ body {
   margin-top: 15px;
 }
 /*crate-final*/
-.text-category{
+.text__cratefinal--category{
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-style: normal;
